@@ -63,4 +63,7 @@ I implemented a robust data lifecycle to move from raw data to actionable insigh
    
 5. Root Cause Analysis Of Delays
 <p align="center"> <img src= "https://github.com/kaushalpadole/Smart-Logistics/blob/master/assets/Decomposition%20Tree.png?raw=true" width="900"> </p>
+
+6. Tooltip - High Value Delays
+<p align="center"> <img src= "https://github.com/kaushalpadole/Smart-Logistics/blob/master/assets/Tooltip%20High%20Value.png?raw=true" width="900"> </p>
   
